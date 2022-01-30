@@ -1,0 +1,42 @@
+.search-form{
+display: flex;
+margin-left: 20px;
+padding-bottom: 30px;
+}
+
+.btn{
+    margin-left: 10px;
+    background-color: rgb(101, 101, 253);
+    color: white;
+    border: none;
+}
+
+.js-card-container{
+    display: inline-block;
+margin-left: 20px;
+}
+
+.card{
+   padding: 10px;
+        align-items: center;
+        border:  1px solid rgb(65, 64, 64);
+        border-radius: 1px;
+
+
+}
+
+
+.card-img-top{
+    display: flex;
+justify-content: center;
+}
+
+.list-group{
+    list-style: none;
+    padding: 0;
+}
+.list-group-item{
+    margin: 5px;
+
+}
+
